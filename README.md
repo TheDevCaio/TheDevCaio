@@ -14,7 +14,7 @@
 
 ### Estudando Sistemas de Informação na instituição Universidade Federal de Juiz de Fora. Também aprendendo através de Bootcamps, Hackatons e Cursos.
  
-### Entre em contato com: caioinnocencio@gmail.com, para encomentar projetos ou adquirir uma cópia atualizada do currículo.
+### Entre em contato com: caioinnocencio@gmail.com, para encomentar projetos.
 
 
 
