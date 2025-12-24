@@ -1,22 +1,9 @@
+Hello, my name is Caio. I’m 22 years old and an Information Systems student passionate about Java. I’m constantly writing code or committing to my projects. Currently, I work as a Full Stack Developer at Universal Softwares.
+<br/> <img src="https://img.shields.io/static/v1?label=Overview&message=TheDevCaio&color=f8efd4&style=for-the-badge&logo=GitHub"> <p> <img align='right' src="https://github-readme-stats.vercel.app/api?username=TheDevCaio&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+Studying Information Systems at the Federal University of Juiz de Fora.
 
-### Olá, meu nome é Caio, tenho 22 anos e sou um estudante de SI apaixonado por Java. Estou constantemente criando códigos ou commitando nos meus. Atualmente sou Desenvolvedor Full Stack na Universal Softwares.
+Also learning through Bootcamps, Hackathons, and Courses.
 
- <br/>
+</p> <hr>
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=TheDevCaio&color=f8efd4&style=for-the-badge&logo=GitHub">
-
-
-<p>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=TheDevCaio&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
-
-
-
-
-### Estudando Sistemas de Informação na instituição Universidade Federal de Juiz de Fora. Também aprendendo através de Bootcamps, Hackatons e Cursos
-
-
-
-
-</p>
-<hr>
-
+Se quiser, posso deixar mais profissional, mais casual, ou mais focado em recrutador.
