@@ -1,5 +1,5 @@
 
-### Olá, meu nome é Caio, tenho 21 anos e sou um estudante de SI apaixonado por Java. Estou constantemente criando códigos ou commitando nos meus. Programar é a atividade que mais me diverte. Quando conheci a linguagem da Xíracara de Café (Javão Damassa) eu achei difícil por ser muito novo (15y) e me concentrei em estudar lógica de programação. Um pouco mais velho (16y), comecei a codar intensivamente na linguágem por Amor/Vício. Meus primeiros programas foram calculadoras numéricas construídas com Java/Swing, mas atualmente construo a marior parte de minhas aplicações com SpringBoot/React e protejo com Spring Security.
+### Olá, meu nome é Caio, tenho 22 anos e sou um estudante de SI apaixonado por Java. Estou constantemente criando códigos ou commitando nos meus. Atualmente sou Desenvolvedor Full Stack na Universal Softwares.
 
  <br/>
 
