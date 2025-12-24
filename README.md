@@ -2,7 +2,7 @@ Hello, my name is Caio. I’m 22 years old and an Information Systems student pa
 
 <br/>
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=TheDevCaio&color=f8efd4&style=for-the-badge&logo=GitHub">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDevCaio&layout=compact">
 
 <p>
 Studying Information Systems at the Federal University of Juiz de Fora.
