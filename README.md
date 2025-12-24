@@ -7,7 +7,7 @@ Hello, my name is Caio. I’m 22 years old and an Information Systems student pa
 <p>
 Studying Information Systems at the Federal University of Juiz de Fora.
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Logo_da_UFJF.jpg/960px-Logo_da_UFJF.jpg
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Logo_da_UFJF.jpg/960px-Logo_da_UFJF.jpg" width="120"/>
 
 Also learning through Bootcamps, Hackathons, and Courses.
 </p>
