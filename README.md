@@ -1,4 +1,4 @@
-Hello, my name is Caio. I’m 22 years old and an Information Systems student passionate about Java.  
+Hello, my name is Caio. I’m 22 years old and an Information Systems student passionate about Java and Typescript.  
 I’m constantly writing code or committing to my projects.  
 Currently, I work as a Full Stack Developer at Universal Softwares.
 
