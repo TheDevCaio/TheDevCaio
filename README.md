@@ -12,7 +12,7 @@ Currently, I work as a Full Stack Developer at Universal Softwares.
 ### 🎓 Education
 Studying Information Systems at the Federal University of Juiz de Fora.
 
-![UFJF](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Logo_da_UFJF.jpg/960px-Logo_da_UFJF.jpg)
+![UFJF](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Logo_da_UFJF.jpg/300px-Logo_da_UFJF.jpg)
 
 ---
 
