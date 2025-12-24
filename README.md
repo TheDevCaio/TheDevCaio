@@ -5,5 +5,3 @@ Studying Information Systems at the Federal University of Juiz de Fora.
 Also learning through Bootcamps, Hackathons, and Courses.
 
 </p> <hr>
-
-Se quiser, posso deixar mais profissional, mais casual, ou mais focado em recrutador.
