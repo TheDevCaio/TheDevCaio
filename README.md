@@ -5,11 +5,3 @@ Studying Information Systems at the Federal University of Juiz de Fora.
 Also learning through Bootcamps, Hackathons, and Courses.
 
 </p> <hr>
-
-Se quiser, posso:
-
-enxugar mais
-
-deixar mais “GitHub profile clean”
-
-ou adaptar pra recrutador 👌
